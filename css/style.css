@@ -1,0 +1,137 @@
+*{
+padding:0;
+margin:0;
+
+}
+
+.fb_container h1{
+	color:black;
+	text-align: center;
+}
+.fb_container button{
+	color:grey;
+	padding:10px;
+	margin:95px;
+	border:1px solid white;
+    border-radius: 10px;
+	
+}
+.fb_container p{
+	color: #22dfe5;
+	margin-top:150px;
+	font-size:20px;
+}
+.main_container{
+width:90%;
+height:900px;;
+
+background-color: azure;
+
+}
+
+.fb_container{
+border:1px solid;
+border-radius: 10px;
+width:400px;
+height:300px;
+background-image:url("../img/tulips.jpg");
+margin:10px 10px;
+background-size: cover;
+background-position: center;
+
+}
+
+
+
+
+}
+.instagram_container{
+border:5px solid white;
+border-radius: 10px;
+width:300px;
+height:300px;
+background-color:grey;
+background-size: cover;
+background-position: center;
+margin:5px 5px;
+display:flex;
+
+}
+.instagram_container img{
+	margin: 20px;
+	width:250px;
+	border:5px solid;
+border-radius: 10px;
+background-color:white;
+
+	
+}
+.fb_container button{
+border:1px solid;
+border-radius: 2px;
+text-align: center;
+}
+.yourname_container{
+border:1px solid;
+border-top-left-radius: 120px;
+border-bottom-right-radius: 120px;
+width:300px;
+height:350px;
+background-color: #43515A;
+line-height:1.5;
+text-align:center;
+color:#C54582;
+
+}
+.yourname_container img{
+	width:100px;
+	height:100px;
+	
+background-color: white;
+border:7px solid #C54582;
+border-radius:60px;
+position: relative;
+bottom: 50px;
+
+}
+.icon{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-top:30px;
+}
+.yourname_container span{
+	border:2px solid #C54582;
+	background-color:#C54582;
+	border-radius:50px;
+	padding:10px;
+color:white;	
+}
+
+.user_container{
+	border:1px solid;
+border-radius: 10px;
+width:500px;
+height:400px;
+background-color: #3697DB;
+}
+.user1_container{
+	border:2px solid grey;
+	border-radius:8px;
+	width:347px;
+	height: 330px;
+    margin-top: 50px;
+    margin-left: 30px;
+	background-image:url(../img/mypic.jpg);
+	background-position:center;
+	background-size:cover;
+		
+.icon2 span{
+	color:white;
+	background-color:#C54582;
+	border:2px solid #C54582;
+	border-radius:10px;
+	width:30px;
+	height: 30px;
+	margin-top:200px;
+	margin-left:50px;
